@@ -7,7 +7,7 @@ In 2021 Jeff Atwood commenced a projet to convert the classic games in this book
 
 I ported quite a number of the basic games to Java and they are currently in Jeff's [Basic-Computer-Games](https://github.com/journich/basic-computer-games) repository on Github.
 
-Recently I've taken an interest in the [c256Foenix](https://c256foenix.com/) series of computers, specifically the [a2560K(https://c256foenix.com/products/#a2560k).
+Recently I've taken an interest in the [c256Foenix](https://c256foenix.com/) series of computers, specifically the [a2560K](https://c256foenix.com/products/#a2560k).
 
 This is a new look at retro machines, with specifications like a 32 bit Motorola MC68040V CPU (68000 series), 64 Mb (not GB!) of ram, and other features appropriate for the 1980's and 1990's.
 
